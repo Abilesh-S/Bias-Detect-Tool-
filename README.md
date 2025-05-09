@@ -18,5 +18,6 @@ A simple Streamlit web app that analyzes input text for potential **gender** and
 3. It identifies and explains potentially biased phrases.
 4. Then, Gemini is prompted again to suggest rewordings to make the text more neutral.
 
-🛡️ Disclaimer
+## 🛡️ Disclaimer
+
 This tool provides AI-based suggestions and is not a replacement for human judgment. Use responsibly.
