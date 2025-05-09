@@ -2,7 +2,7 @@ import streamlit as st
 from google.generativeai import GenerativeModel, configure
 
 # Replace with your actual API key
-GOOGLE_API_KEY = "AIzaSyAea7ddhcF7rstDYR6UuypeFSjNRXDoRdU"
+GOOGLE_API_KEY = "YOUR_GOOGLE_API_KEY"
 configure(api_key=GOOGLE_API_KEY)
 
 # Load the Gemini Pro model
